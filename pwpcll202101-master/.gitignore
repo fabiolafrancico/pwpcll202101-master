@@ -1,0 +1,8 @@
+# Ingnorando las dependencias
+node_modules
+dist-server
+# Ingnorando los archivos de logs
+logs
+*.logs
+# Ignorando archivo de configuracion
+.env
